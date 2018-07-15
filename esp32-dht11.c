@@ -41,4 +41,5 @@ void loop() {
     Serial.println();    
   }
   delay(DHT11_RETRY_DELAY); //delay for reread
+  
 }
